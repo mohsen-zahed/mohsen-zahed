@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mohsen-zahed
+- 👋 Hi, This is @mohsen-zahed
 - 👀 I’m interested in coding and coding
 - 🌱 I’m currently learning Mobile App Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me on instagram -> @mohsen_zahed80
 
 <!---
